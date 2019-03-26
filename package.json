@@ -7,7 +7,7 @@
     "react-dom": "^16.8.5",
     "react-scripts": "2.1.8"
   },
-  "homepage": "http://andrewkhizhnyak.github.io",
+  "homepage": "http://andrewkhizhnyak.github.io/ask",
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
