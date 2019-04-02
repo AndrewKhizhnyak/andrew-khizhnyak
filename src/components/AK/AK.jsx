@@ -6,7 +6,7 @@ export default class AK extends Component {
     return (
       <div>
         <h1>
-          Andrew Khizhnyak
+        <span>Andrew</span> Khizhnyak
         </h1>
       </div>
     )

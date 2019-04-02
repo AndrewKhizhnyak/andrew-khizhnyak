@@ -1,11 +1,12 @@
 import React, { Component } from 'react'
+import './e.sass';
 
-export default class AK extends Component {
+export default class e extends Component {
   render() {
     return (
-      <h1>
-        AK
-      </h1>
+      <div>
+        e
+      </div>
     )
   }
 }
